@@ -1,4 +1,4 @@
-public class Main {
+public class MainTema4 {
     public static void usarunif() {
         int numeroIf = 30;
         if (numeroIf > 0) {
